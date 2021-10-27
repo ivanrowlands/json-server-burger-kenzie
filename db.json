@@ -6,6 +6,13 @@
       "name": "Kenzinho",
       "age": 38,
       "id": 1
+    },
+    {
+      "email": "teste98@mail.com",
+      "password": "$2a$10$M8r4ulYpy3LnISDY4ofhbuIzBUy.YLGu9zRJGVd1101MEpDfjuYv6",
+      "name": "teste 98",
+      "age": 98,
+      "id": 2
     }
   ]
 }
