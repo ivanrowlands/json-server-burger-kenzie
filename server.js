@@ -13,6 +13,7 @@ const rules = auth.rewriter({
   desc: 644,
   userInfor: 660,
   products: 444,
+  cart: 644,
 });
 
 app.use(cors());
