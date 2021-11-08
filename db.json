@@ -14,25 +14,25 @@
     {
       "name": "Hamburger",
       "price": 14.00,
-      "category": "Hamburger",
+      "category": "Sanduíches",
       "img": "https://i.ibb.co/fpVHnZL/hamburguer.png"
     },
     {
       "name": "X-Burger",
       "price": 16.00,
-      "category": "Hamburger",
+      "category": "Sanduíches",
       "img": "https://i.ibb.co/djbw6LV/x-burgue.png"
     },
     {
       "name": "Big Kenzie",
       "price": 18.00,
-      "category": "Hamburger",
+      "category": "Sanduíches",
       "img": "https://i.ibb.co/FYBKCwn/big-kenzie.png"
     },
     {
       "name": "Combo Kenzie",
       "price": 26.00,
-      "category": "Combo",
+      "category": "Combos",
       "img": "https://i.ibb.co/LvQW4B7/202110050424-xijoowz172-1.png"
     },
     {
