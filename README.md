@@ -15,10 +15,71 @@ POST /users
 Qualquer um desses 3 endpoints irá cadastrar o usuário na lista de "Users", sendo que os campos obrigatórios são os de email e password.
 Você pode ficar a vontade para adicionar qualquer outra propriedade no corpo do cadastro dos usuários.
 
-
 ### Login
 
 POST /login <br/>
 POST /signin
 
 Qualquer um desses 2 endpoints pode ser usado para realizar login com um dos usuários cadastrados na lista de "Users"
+
+### ENDPOINT BASE : https://atividade-json-serve.herokuapp.com/
+
+### Buscar produtos
+
+GET/ products <br/>
+<br/>
+Response <br/>
+{
+"name": "",<br/>
+"price": 12.5,<br/>
+"category": "",<br/>
+"image": ""<br/>
+}
+
+### Adcionar Descrição
+
+POST /desc
+
+Autorizathion: `Bearer ${token}` <br/>
+body: <br/>
+{ <br/>
+"desc": "hahahhahha", <br/>
+"userId": 2,
+}
+
+GET /desc
+
+Autorizathion: null <br/>
+
+retorno :<br/>
+
+{ <br/>
+"desc": "ex: descrição marota",<br/>
+"userId": 2,<br/>
+"id": 1
+}
+
+### Adcionar informações ao usuario
+
+POST /userInfor:
+
+Autorizathion: `Bearer ${token}` <br/>
+body:<br/>
+{
+"bio": "esta dando certo",<br/>
+"adress": "Maranhão",<br/>
+"userId": 2
+}
+
+GET /userInfor:
+
+Autorizathion: `Bearer ${token}` <br/>
+
+response:
+
+{
+"bio": "esta dando certo", <br/>
+"adress": "Maranhão", <br/>
+"userId": 2, <br/>
+"id": 1
+}
