@@ -15,49 +15,49 @@
       "name": "Hamburger",
       "price": 14.00,
       "category": "Hamburger",
-      "image": "https://i.ibb.co/gdPq4fZ/55225f534ef7e57de0892c7de864a767.png"
+      "image": "https://i.ibb.co/fpVHnZL/hamburguer.png"
     },
     {
       "name": "X-Burger",
       "price": 16.00,
       "category": "Hamburger",
-      "image": "https://i.ibb.co/3dfyx5Z/9de750feaf42d98ebd46941dad1f6afd.png"
+      "image": "https://i.ibb.co/djbw6LV/x-burgue.png"
     },
     {
       "name": "Big Kenzie",
       "price": 18.00,
       "category": "Hamburger",
-      "image": "https://i.ibb.co/4TkX7Nm/77b97cf91adff632bb964dc7b056d179.png"
+      "image": "https://i.ibb.co/FYBKCwn/big-kenzie.png"
     },
     {
       "name": "Combo Kenzie",
       "price": 26.00,
       "category": "Combo",
-      "image": "https://i.ibb.co/GJC1z3x/7ab92583a1899ee8c880fbc412dcf2b3.png"
+      "image": "https://i.ibb.co/LvQW4B7/202110050424-xijoowz172-1.png"
     },
     {
       "name": "Fanta Guaraná",
       "price": 5.00,
       "category": "Bebidas",
-      "image": "https://i.ibb.co/NZQYmQV/e0f45751b040264e27bff533cd98a9fa.png"
+      "image": "https://i.ibb.co/pKD6LQN/202108180426-861zezb4bh-1.png"
     },
     {
       "name": "Coca Cola",
       "price": 7.00,
       "category": "Bebidas",
-      "image": "https://i.ibb.co/71DJXZ7/0066008c52d555a980ec793bcaf8317f.png"
+      "image": "https://i.ibb.co/3WsW0qJ/202108180426-tbwjnwcd1zq-1.png"
     },
     {
       "name": "McShake Ovomaltine",
       "price": 10.00,
       "category": "Sobremesa",
-      "image": "https://i.ibb.co/b3HctX0/3ddbebe1535caac9b2a02d00b60bff97.png"
+      "image": "https://i.ibb.co/TPsgBXs/milshakeovomaltine.png"
     },
     {
       "name": "Top Sunday",
       "price": 10.00,
       "category": "Sobremesa",
-      "image": "https://i.ibb.co/2MJCQzc/bff95df5c4ffe3b30eb1fc1d20d11c67.png"
+      "image": "https://i.ibb.co/1zhmNMJ/sundae.png"
     }
   ]
 }
